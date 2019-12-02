@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<application xmlns="http://ns.adobe.com/air/application/1.1">
+
+  <id>Project.SketchBoard</id>
+
+  <version>1.0</version>
+
+  <filename>SketchBoard</filename>
+
+  <description>This is an Air application for 1st i-Board Creative Contest. Created by Mr.Prayook Jatesiktat and Mr.Sipoom Vipulakorn of Department of Computer Engineering of Kasetsart Univirsity.</description>
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+<!-- To localize the description, use the following format for the description element.<description><text xml:lang="en">English App description goes here</text><text xml:lang="fr">French App description goes here</text><text xml:lang="ja">Japanese App description goes here</text></description>-->
+
+  <name>SketchBoard</name>
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+<!-- To localize the name, use the following format for the name element.<name><text xml:lang="en">English App name goes here</text><text xml:lang="fr">French App name goes here</text><text xml:lang="ja">Japanese App name goes here</text></name>-->
+
+  <copyright>SKB Group</copyright>
+
+  <initialWindow>
+    <content>SketchBoard.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <maximizable>false</maximizable>
+    <minimizable>false</minimizable>
+    <resizable>false</resizable>
+    
+    
+    
+    
+  </initialWindow>
+
+  <icon>
+    <image128x128>images/proicon128.png</image128x128>
+    <image48x48>images/proicon48.png</image48x48>
+    <image32x32>images/proicon32.png</image32x32>
+    <image16x16>images/proicon16.png</image16x16>
+  </icon>
+
+  <customUpdateUI>false</customUpdateUI>
+
+  <allowBrowserInvocation>false</allowBrowserInvocation>
+
+
+
+
+
+
+
+
+
+
+
+  <fileTypes>
+    <fileType>
+      <name>SketchBoard</name>
+      <extension>skb</extension>
+      <description>SketchBoard File</description>
+      <contentType/>
+      <icon>
+        <image16x16>images/iconfile16.png</image16x16>
+        <image32x32>images/iconfile32.png</image32x32>
+        <image48x48>images/iconfile48.png</image48x48>
+        <image128x128>images/iconfile128.png</image128x128>
+      </icon>
+    </fileType>
+  </fileTypes>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</application>
